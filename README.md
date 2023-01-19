@@ -1,4 +1,5 @@
 # Play-Fetch
-Unity challenge: https://learn.unity.com/tutorial/challenge-2-play-fetch-with-random-values-and-arrays
+Play it here: https://charleskimbac.itch.io/play-fetch
+Press Space to launch your dog
 
 <img src="/Assets/Challenge%202/GIFs/gameplay.gif" width=700 />
